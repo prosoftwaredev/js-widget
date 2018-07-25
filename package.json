@@ -1,0 +1,17 @@
+{
+    "name": "stable_payment_widget",
+    "version": "1.0.0",
+    "description": "Embeddable Stable Payment Form Widget",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Arsen Berberian",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^3.9.1"
+    },
+    "dependencies": {
+        "gulp-run": "^1.7.1"
+    }
+}

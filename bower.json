@@ -1,0 +1,13 @@
+{
+  "name": "stable_payment_widget",
+  "version": "1.0.0",
+  "description": "Embeddable Stable Payment Form Widget",
+  "author": "Arsen Berberian",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "almond": "^0.3.3",
+    "text": "requirejs-text#^2.0.15",
+    "jquery": "^3.3.1"
+  }
+}
